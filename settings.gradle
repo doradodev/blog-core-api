@@ -1,0 +1,8 @@
+rootProject.name = 'blog-core'
+
+include "blog-core-commons",
+		"blog-core-entity",
+        "blog-core-repository",
+        "blog-core-service",       
+        "blog-core-api",          
+        "blog-core-starter"
