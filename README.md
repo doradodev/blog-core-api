@@ -1,4 +1,4 @@
-# festivities Core RESTful API
+# Blog Core RESTful API
 
 [![engine](https://img.shields.io/badge/JDK-v1.8+-yellow.svg)]()
 [![gradle](https://img.shields.io/badge/gradle-v2.13+-blue.svg)]()
